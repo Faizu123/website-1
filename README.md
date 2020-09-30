@@ -15,7 +15,7 @@ directory (this is the live site and what):
 
         bundle install
 
-# Updating the Site
+# Update the Site
 
 You can preview the site by running `nanoc autocompile` and visiting
 [http://localhost:3000/](http://localhost:3000/) in your browser.
@@ -55,7 +55,7 @@ and JavaScript are absolute (/js/myjs.js, not js/myjs.js).
 
 # Deploying Changes
 
-_**Note:** Before deploying, please preview the site and make sure that everything looks
+_**important Note:** Before deploying, please preview the site and make sure that everything looks
 correct! Additionally, when you run the `git status` command below, please make sure the
 changes are sane._
 
